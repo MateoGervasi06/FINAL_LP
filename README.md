@@ -12,4 +12,11 @@ video_game_advertisements.csv: Archivo CSV que contiene datos de publicaciones d
 yearly_video_game_ad_stats.csv: Archivo CSV que contiene promedios de puntajes y comentarios por año.
 analysis_report.html: Informe generado en HTML con los resultados del análisis.
 
+Si deseas contribuir a este proyecto, por favor sigue estos pasos:
+
+Haz un fork del repositorio.
+Crea una rama con una nueva característica (git checkout -b feature/nueva-caracteristica).
+Realiza tus cambios y haz commits (git commit -am 'Agrega nueva característica').
+Sube los cambios a tu repositorio fork (git push origin feature/nueva-caracteristica).
+Abre un pull request.
 
